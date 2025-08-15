@@ -31,7 +31,7 @@ Features smooth scrolling, 3D hero scenes, and scroll-triggered animations for a
 
 ---
 
-### 💼 all Services Section
+### 💼 All Services Section
 ![Services](./assets/whole-services.png)
 
 ---
